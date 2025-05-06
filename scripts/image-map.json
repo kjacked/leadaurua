@@ -1,0 +1,28 @@
+{
+    "ai-powered-cold-calling/Header36.jsx": "ai-driven_solutions_20250505_190808.png",
+    "ai-powered-cold-calling/Layout1.jsx":    "ai-driven_solutions_20250505_190808.png",
+  
+    "crm-integration/Header26.jsx":           "crm-hero-landscape.png",
+    "crm-integration/Layout12.jsx":           "crm-sync-icon.svg",
+    "crm-integration/Layout24.jsx":           "crm-integration-hero.png",
+    "crm-integration/Layout250.jsx":          "real-time-sync.png",
+  
+    "lead-optimization/Layout18.jsx":         "follow-ups-list.png",
+    "lead-optimization/Layout12.jsx":         "scoring-and-behavior.svg",
+    "lead-optimization/Layout24.jsx":         "lead-scoring-hero.png",
+  
+    "about-us/Layout3.jsx":                   "about-hero.png",
+    "about-us/Layout22.jsx":                  "partner-growth.png",
+    "about-us/Layout24.jsx":                  "partner-growth.png",
+    "about-us/Layout24_1.jsx":                "partner-growth-alt.png",
+  
+    "home/Layout6.jsx":                       "home-benefits.png",
+    "home/Layout239.jsx":                     "home-why-ai.png",
+  
+    "pricing/Layout16.jsx":                   "pricing-hero.png",
+    "pricing/Layout18.jsx":                   "enterprise-options.png",
+  
+    "services/Layout10.jsx":                  "services-hero.png",
+    "services/Layout12.jsx":                  "services-icons.svg",
+    "services/Layout24.jsx":                  "crm-workflow.png"
+  }
